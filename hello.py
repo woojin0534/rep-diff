@@ -1,3 +1,3 @@
 print('basic')
-print(list('python'))
+print(list('pyfdsf'))
 
